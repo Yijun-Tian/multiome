@@ -1,5 +1,5 @@
 ##  Brief title for this repo
-    ectInsBam.pl": used to extract ATAC-seq Tn5 insertion region sequence from BAM files.
+    **ectInsBam.pl: used to extract ATAC-seq Tn5 insertion region sequence from BAM files.**
     Argument 1 is the ATAC-seq BAM file name
     Argument 2 is the prefix for sam output name
     Argument 3 is a cell barcode id file for filter alignments
