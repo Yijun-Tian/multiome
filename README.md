@@ -1,3 +1,6 @@
+
+![gitcover](https://github.com/Yijun-Tian/multiome/assets/56854730/f0b74b55-425f-4d9b-a69f-8c7558a30e8d)
+
 #  Brief title for this repo
 ## **ectInsBam.pl used to extract ATAC-seq Tn5 insertion region sequence from BAM files**
 e.g.: `perl ectInsBam.pl atac_possorted_bam.bam sth.Tn5ins sth.id.txt`  
@@ -16,3 +19,5 @@ chr1    11007   11008   rs575272151
 chr1    11011   11012   rs544419019
 chr1    13115   13116   rs62635286
 ```
+
+## **
